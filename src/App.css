@@ -1,0 +1,23 @@
+
+html{
+/* background: -webkit-linear-gradient(to top, #B06AB3, #4568DC);  Chrome 10-25, Safari 5.1-6 */
+/* background: green;
+ */
+ background: linear-gradient(to top, #4568dc, #b06ab3);
+ height: 125%;
+}
+hr{
+    background-color: white
+}
+.attendance{
+    border: 10px;
+    border-radius: 10px;
+    border-color: white;
+}
+#attpercent{
+    font-size: 25px;
+}
+
+.cornerlol{
+    background: black;
+}
